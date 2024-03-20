@@ -9,7 +9,7 @@ if it not work, then you can try this fix to resolve the issue.
 How to Fix Left earbud not working
 ----------------------------------
 
-1.  held down the multifunction button on both Left and right **whlist they was still in the case** untill they both turned **red.**
+1.  held down the multifunction button on both Left and right **whlist both of your earbuds was still in the case** untill they both turned **red.**
 2.  At this point the left one should reboot and the right one should turn white.
 3.  **Quickly pull them out** and go into your Bluetooth settings and try and connect to the earphones even if it says pairing request denied keep trying I had to press it 3 times to connect
 4.  after that both earbuds should hopefully connect
